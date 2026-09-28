@@ -56,7 +56,7 @@ console.log("Conta de " + contas[indice-1].titular + " encerrada.");
 // Teste
 criarConta("Carla Mendes", 750);
 encerrarConta(2);
-listarContas();
+listarContas();00
 // ALTERE a linha do nomeBanco para:
 let nomeBanco = "BANCO VIRTUAL S.A.";
 function extrato(indice) {
